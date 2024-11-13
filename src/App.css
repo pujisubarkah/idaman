@@ -1,0 +1,19 @@
+/* App.css */
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.carousel {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.login-form {
+    flex: 1;
+    margin-left: 20px;
+}
